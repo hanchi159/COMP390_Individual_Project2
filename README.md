@@ -16,9 +16,9 @@ How to run this program? Just clone this Repository and open the main.py file on
 
 Version of Python: Python 3.10.7
 
-Version of PyCharm: 
-	PyCharm 2022.2.1 (Community Edition)
-	Build #PC-222.3739.56, built on August 16, 2022
+Version of PyCharm: \n
+	PyCharm 2022.2.1 (Community Edition)\n
+	Build #PC-222.3739.56, built on August 16, 2022\n
 	Runtime version: 17.0.3+7-b469.37 amd64
 	VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.
 	Windows 11 10.0
