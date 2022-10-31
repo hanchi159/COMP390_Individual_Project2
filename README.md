@@ -29,6 +29,6 @@ Version of PyCharm:
 The operating system on my PC:
 	Edition Windows 	11 Home
 	Version 		21H2
-	Installed on		2022-‎05-‎12
+	Installed on		2022-05-12
 	OS build 		22000.1098
 	Experience 		Windows Feature Experience Pack 1000.22000.1098.0
